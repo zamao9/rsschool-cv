@@ -1,10 +1,10 @@
-#Temirlan Uzdenov
+# Temirlan Uzdenov
 
-####Junior Frontend Developer
+#### Junior Frontend Developer
 
 ---
 
-####Contact Information:
+#### Contact Information:
 
 **Phone:** +375 25 774 8053
 
@@ -14,7 +14,7 @@
 
 ---
 
-####About me:
+#### About me:
 
 Front end developer, looking for a job in organization where can be useful in performing various of tasks related to the direction.
 
@@ -24,7 +24,7 @@ Constantly refresh my knowledge to keep up with the latest updates and features 
 
 ---
 
-####Education:
+#### Education:
 
 Mogilev state polytechnical college ( 2011 - 2015 )
 
@@ -41,7 +41,7 @@ Finance and Credit.
 
 ---
 
-####Skills:
+#### Skills:
 
 - HTML
 
@@ -53,7 +53,7 @@ Finance and Credit.
 
 ---
 
-####Code example:
+#### Code example:
 
 You probably know the "like" system from Facebook and other pages. People can "like" blog posts, pictures or other items. We want to create the text that should be displayed
 next to such an item.
@@ -110,7 +110,7 @@ console.log(likes(e));
 
 ---
 
-####My works:
+#### My works:
 
 https://zamao9.github.io/restaurant-template/
 
@@ -120,7 +120,7 @@ https://zamao9.github.io/noname-template/
 
 ---
 
-####Languages:
+#### Languages:
 
 - RUSSIA - native
 
