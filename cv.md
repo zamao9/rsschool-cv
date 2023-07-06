@@ -49,7 +49,9 @@ Finance and Credit.
 
 - JAVASCRIPT
 
-- GIT - FIGMA, ADOBE PHOTOSHOP
+- GIT
+
+- FIGMA, ADOBE PHOTOSHOP
 
 ---
 
@@ -122,6 +124,6 @@ https://zamao9.github.io/noname-template/
 
 #### Languages:
 
-- RUSSIA - native
+- RUSSIAN - native
 
 - ENGLISH - B1
